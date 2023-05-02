@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tasklist2.0-deploy-githubpages/static/css/main.aa0cda4f.css",
+    "main.js": "/tasklist2.0-deploy-githubpages/static/js/main.705294ce.js",
+    "index.html": "/tasklist2.0-deploy-githubpages/index.html",
+    "main.aa0cda4f.css.map": "/tasklist2.0-deploy-githubpages/static/css/main.aa0cda4f.css.map",
+    "main.705294ce.js.map": "/tasklist2.0-deploy-githubpages/static/js/main.705294ce.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa0cda4f.css",
+    "static/js/main.705294ce.js"
+  ]
+}
